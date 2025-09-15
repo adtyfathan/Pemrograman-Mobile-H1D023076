@@ -8,5 +8,5 @@ Aditya Fathan Naufaldi (H1D023076)
 
 ## Video Demo Aplikasi
 
-![Demo](app/docs/videos/demo.mp4)
+https://github.com/user-attachments/assets/4611f214-49fe-4dea-9dc8-94c8668f6e25
 
