@@ -15,6 +15,7 @@ class Halaman2Activity : AppCompatActivity() {
     private val longitude = "109.338082"
     private val gMapsUrl = "http://maps.google.com/maps?q=loc:"
     private val packageMaps = "com.google.android.apps.maps"
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityHalaman2Binding.inflate(layoutInflater)
