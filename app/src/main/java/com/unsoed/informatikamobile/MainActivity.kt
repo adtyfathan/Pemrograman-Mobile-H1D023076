@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
 
         setContentView(binding.root)
-        initNavigation() // Call initNavigation here
+        initNavigation()
     }
 
     private fun initNavigation(){

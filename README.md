@@ -13,3 +13,7 @@ https://github.com/user-attachments/assets/4611f214-49fe-4dea-9dc8-94c8668f6e25
 ## Video Demo Aplikasi Pertemuan 4
 
 ![Demo](app/docs/videos/demo4.gif)
+
+## Video Demo Aplikasi Pertemuan 5
+
+![Demo](app/docs/videos/demo5.gif)
